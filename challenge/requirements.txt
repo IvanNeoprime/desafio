@@ -1,0 +1,6 @@
+pandas
+redmail
+Jinja2
+gspread
+oauth2client
+python-dotenv
